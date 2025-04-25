@@ -1,4 +1,13 @@
 
+// Para llenar este archivo:
+// - Presionar Ctrl + Shift + P
+// - Paste JSON as Code
+// - Colocar el nombre
+
+//-- Detecta de la papelera el plugin(luego hacer copiado el codigo), y a partir de esa respuesta http, me mapea toda la API
+
+
+
 export interface GiphyResponse {
   data:       GiphyItem[];
   meta:       Meta;
